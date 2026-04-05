@@ -35,12 +35,6 @@
 <a href="https://t.me/TOM_a54" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrDemon-LICH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDemon-LICH&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
 ---
 
 <p align="center">
