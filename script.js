@@ -208,7 +208,10 @@ async function fetchLastCommits() {
         'MrDemonc/Lune',
         'MrDemonc/Beta_FW_Mergue',
         'MrDemonc/SendFiles',
-        'MrDemonc/Vaulta',
+        'MrDemonc/Omarchy-media-control',
+        'MrDemonc/Omarchy-favorite-folders',
+        'MrDemonc/Omarchy-lock-style',
+        'MrDemonc/OtaUpdater',
         'MrDemonc/android_device_samsung_a54x'
     ];
 
